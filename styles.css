@@ -52,7 +52,7 @@ p {
 }
 
 ul {
-    color: aquamarine;
+    color: rgb(0, 0, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size: 18px;
@@ -60,7 +60,7 @@ ul {
 }
 
 ol {
-    color: rgb(127, 212, 255);
+    color: rgb(0, 0, 0);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size: 23px;

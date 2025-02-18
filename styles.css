@@ -52,7 +52,7 @@ p {
 }
 
 ul {
-    color: rgb(120, 120, 120);
+    color: rgb(100, 100, 100);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size: 18px;
@@ -60,7 +60,7 @@ ul {
 }
 
 ol {
-    color: rgb(120, 120, 120);
+    color: rgb(100, 100, 100);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
     font-size: 23px;

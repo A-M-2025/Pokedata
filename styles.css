@@ -44,6 +44,13 @@ h3 {
     font-size: 32px;
 }
 
+h4 {
+    color: rgb(70, 255, 135);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 26px;
+}
+
 p {
     color: rgb(103, 103, 103);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;

@@ -22,7 +22,7 @@ body {
 }
 
 h1 {
-    color: maroon;
+    color: rgb(103, 103, 103);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font: bold;
     font-size: 46px;
@@ -31,19 +31,19 @@ h1 {
 }
 
 h2 {
-    color: midnightblue;
+    color: rgb(103, 103, 103);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 36px ;
 }
 
 h3 {
-    color: goldenrod;
+    color: rgb(103, 103, 103);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 32px;
 }
 
 h4 {
-    color: rgb(74, 74, 74);
+    color: rgb(103, 103, 103);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 26px;
 }

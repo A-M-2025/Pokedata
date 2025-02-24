@@ -33,21 +33,18 @@ h1 {
 h2 {
     color: midnightblue;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;
     font-size: 36px ;
 }
 
 h3 {
     color: goldenrod;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;
     font-size: 32px;
 }
 
 h4 {
     color: rgb(74, 74, 74);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-style: italic;
     font-size: 26px;
 }
 

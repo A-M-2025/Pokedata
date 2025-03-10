@@ -1,34 +1,34 @@
 const Questions = [
     {
-        q: "Fill in the blank: Snow leopards live _____.",
-        a: [{text: "in the desert.", isCorrect: false},
-            {text: "in the jungle.", isCorrect: false},
-            {text: "in the mountains.", isCorrect: true},
-            {text: "in the city.", isCorrect: false},
+        q: "Bulbasaur's type(s) is _____.",
+        a: [{text: "Grass & Bug", isCorrect: false},
+            {text: "Grass", isCorrect: false},
+            {text: "Grass & Poison", isCorrect: true},
+            {text: "Poison & Bug", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards have _____.",
-        a: [{text: "red, with whitish fur.", isCorrect: false},
-            {text: "whitish-gray fur.", isCorrect: true},
-            {text: "black stripes, with orange fur.", isCorrect: false},
-            {text: "white dots with black fur.", isCorrect: false},
+        q: "Bulbasaur's Gender ratio is (Male% - Female%)_____.",
+        a: [{text: "50% - 50%", isCorrect: false},
+            {text: "87.5% - 12.5%", isCorrect: true},
+            {text: "12.5% - 87.5%", isCorrect: false},
+            {text: "70% - 30%", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards use their tails for _____.",
-        a: [{text: "balance.", isCorrect: true},
-            {text: "attacking prey.", isCorrect: false},
-            {text: "defense.", isCorrect: false},
-            {text: "swinging.", isCorrect: false},
+        q: "Bulbasaur's Base Stat Total is _____.",
+        a: [{text: "328", isCorrect: true},
+            {text: "317", isCorrect: false},
+            {text: "322", isCorrect: false},
+            {text: "314", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards eat _____.",
-        a: [{text: "frogs.", isCorrect: false},
-            {text: "fish.", isCorrect: false},
-            {text: "lions.", isCorrect: false},
-            {text: "deer.", isCorrect: true},
+        q: "Bulbasaur evolves to Ivysaur at what level?",
+        a: [{text: "18", isCorrect: false},
+            {text: "14", isCorrect: false},
+            {text: "15", isCorrect: false},
+            {text: "16", isCorrect: true},
            ]
     },
 ]; 

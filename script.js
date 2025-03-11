@@ -31,6 +31,14 @@ const Questions = [
             {text: "16", isCorrect: true},
            ]
     },
+    {
+        q: "Bulbasaur Learns what move at Level 15?",
+        a: [{text: "Razor Leaf", isCorrect: false},
+            {text: "Sleep Powder", isCorrect: true},
+            {text: "Sweet Scent", isCorrect: false},
+            {text: "Poison Powder", isCorrect: true},
+           ]
+    },
 ]; 
 
 let currQuestion = 0;

@@ -39,6 +39,30 @@ const Questions = [
             {text: "Poison Powder", isCorrect: true},
            ]
     },
+    {
+        q: "Bulbasaur is weak to what types?",
+        a: [{text: "Flying, Rock, Bug, Ice", isCorrect: false},
+            {text: "Fire, Flying, Psychic, Ice", isCorrect: true},
+            {text: "Fire, Ground, Ice, Bug", isCorrect: false},
+            {text: "Fire, Flying, Psychic, Bug", isCorrect: true},
+           ]
+    },
+    {
+        q: "Bulbasaur can be found naturally in what games?",
+        a: [{text: "Gen 3(Hoenn)", isCorrect: false},
+            {text: "Gen 1(Kanto)", isCorrect: true},
+            {text: "Gen 4(Sinnoh)", isCorrect: false},
+            {text: "Gen 7(Alola)", isCorrect: false},
+           ]
+    },
+    {
+        q: "What is Bulbasaur's hidden ability?",
+        a: [{text: "Solar Power", isCorrect: false},
+            {text: "Overgrow", isCorrect: false},
+            {text: "Chlorophyll", isCorrect: true},
+            {text: "Water Absorb", isCorrect: false},
+           ]
+    },
 ]; 
 
 let currQuestion = 0;

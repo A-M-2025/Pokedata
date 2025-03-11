@@ -109,10 +109,10 @@ a:link {
 }
 
 a:visited {
-    color: white;
+    color: rgb(246, 246, 191);
 }
 
 a:hover {
-    color: black;
+    color: rgb(174, 255, 232);
     font-size: 15px;
 }

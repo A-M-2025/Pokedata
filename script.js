@@ -84,7 +84,7 @@ const Questions = [
         a: [{text: "Hyper Beam", isCorrect: false},
             {text: "Giga-Drain", isCorrect: true},
             {text: "Solar Beam", isCorrect: false},
-            {text: "Take down", isCorrect: falsee},
+            {text: "Take down", isCorrect: false},
            ]
     },
 ]; 

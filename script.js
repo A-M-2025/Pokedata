@@ -63,6 +63,30 @@ const Questions = [
             {text: "Water Absorb", isCorrect: false},
            ]
     },
+    {
+        q: "What is Chikorita's hidden ability?",
+        a: [{text: "Earth Eater", isCorrect: false},
+            {text: "Overgrow", isCorrect: false},
+            {text: "Leaf Guard", isCorrect: true},
+            {text: "Water Absorb", isCorrect: false},
+           ]
+    },
+    {
+        q: "Chikorita is from what generation?",
+        a: [{text: "1", isCorrect: false},
+            {text: "4", isCorrect: false},
+            {text: "2", isCorrect: true},
+            {text: "7", isCorrect: false},
+           ]
+    },
+    {
+        q: "Chikorita Learns what move at Level 42?",
+        a: [{text: "Hyper Beam", isCorrect: false},
+            {text: "Giga-Drain", isCorrect: true},
+            {text: "Solar Beam", isCorrect: false},
+            {text: "Take down", isCorrect: falsee},
+           ]
+    },
 ]; 
 
 let currQuestion = 0;
